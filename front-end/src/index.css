@@ -1,4 +1,5 @@
 body {
-    background-color: rgb(200, 65, 8);
+    background-color: rgb(200, 65, 8); url(assets/o.jpg) no-repeat center center / cover;
+   color:#ddad0d;
    color:#ddad0d;
 }
